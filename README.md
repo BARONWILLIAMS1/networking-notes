@@ -17,6 +17,17 @@ The objective is to build real-world technical skills relevant to:
 
 ---
 
+## 📂 Repository Structure
+
+- Networking fundamentals notes
+- Linux networking practice
+- DNS & routing diagnostics
+- Connectivity testing labs
+- Packet Tracer simulations
+- Infrastructure troubleshooting exercises
+
+---
+
 ## 📚 Networking Topics Covered
 
 ### 🌐 Networking Fundamentals
@@ -49,6 +60,17 @@ The objective is to build real-world technical skills relevant to:
 - Interface configuration
 - Network connectivity verification
 - Basic infrastructure troubleshooting
+
+---
+
+## 💻 Networking Commands Practiced
+
+```bash
+ip a
+ping google.com
+tracert google.com
+nslookup google.com
+route -n
 
 ---
 
