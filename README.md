@@ -63,15 +63,6 @@ The objective is to build real-world technical skills relevant to:
 
 ---
 
-## 💻 Networking Commands Practiced
-
-```bash
-ip a
-ping google.com
-traceroute google.com
-
----
-
 ## 📸 Practical Networking Evidence
 
 ### 🌐 Interface Configuration
