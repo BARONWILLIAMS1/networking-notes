@@ -5,14 +5,15 @@ A hands-on networking lab portfolio demonstrating ICT support, network administr
 
 ## 👨‍💻 Overview
 
-## 🧠 Focus Areas
+This repository documents my practical ICT and networking learning journey through hands-on labs, connectivity testing, troubleshooting exercises, and infrastructure diagnostics.
 
-This repository focuses on real-world ICT support scenarios including:
-- Office network troubleshooting
-- Internet connectivity issues
-- DNS and routing problems
-- Basic infrastructure diagnostics
-- System and network administration tasks
+It focuses on building real-world technical skills required for:
+- ICT Support / Help Desk
+- Network Administration
+- System Administration
+- Infrastructure Support
+- Cybersecurity Operations
+
 ---
 
 ## 📂 Repository Structure
