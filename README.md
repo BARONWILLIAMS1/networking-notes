@@ -68,9 +68,7 @@ The objective is to build real-world technical skills relevant to:
 ```bash
 ip a
 ping google.com
-tracert google.com
-nslookup google.com
-route -n
+traceroute google.com
 
 ---
 
@@ -127,5 +125,6 @@ Tracing network routes and connectivity paths.
 To continuously develop practical networking, infrastructure support, troubleshooting, and cybersecurity skills aligned with modern ICT environments.
 
 ---
-
-⭐ Continuously updated with networking labs, Packet Tracer exercises, and infrastructure troubleshooting practice.
+nslookup google.com
+route -n
+netstat -tulnp
