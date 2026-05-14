@@ -1,20 +1,18 @@
 # 🖧 Networking Notes & Labs
 
-Networking fundamentals, troubleshooting exercises, infrastructure concepts, and practical networking labs using Kali Linux, Packet Tracer, and network diagnostic tools.
-
+A hands-on networking lab portfolio demonstrating ICT support, network administration, and infrastructure troubleshooting skills.
 ---
 
 ## 👨‍💻 Overview
 
-This repository documents my practical networking and ICT infrastructure learning journey through hands-on labs, connectivity testing, troubleshooting exercises, and network diagnostics.
+## 🧠 Focus Areas
 
-The objective is to build real-world technical skills relevant to:
-- ICT Support
-- Network Administration
-- Infrastructure Support
-- Technical Troubleshooting
-- Cybersecurity Operations
-
+This repository focuses on real-world ICT support scenarios including:
+- Office network troubleshooting
+- Internet connectivity issues
+- DNS and routing problems
+- Basic infrastructure diagnostics
+- System and network administration tasks
 ---
 
 ## 📂 Repository Structure
@@ -108,17 +106,6 @@ Tracing network routes and connectivity paths.
 - Linux Networking Utilities
 - Windows CMD / PowerShell
 - Git & GitHub
-
----
-
-## 💻 Networking Commands Practiced
-
-```bash
-ip a
-ping google.com
-traceroute google.com
-nslookup google.com
-route -n
 
 ---
 ## 🎯 Goal
