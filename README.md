@@ -111,11 +111,19 @@ Tracing network routes and connectivity paths.
 
 ---
 
+## 💻 Networking Commands Practiced
+
+```bash
+ip a
+ping google.com
+traceroute google.com
+nslookup google.com
+route -n
+
+---
 ## 🎯 Goal
 
 To continuously develop practical networking, infrastructure support, troubleshooting, and cybersecurity skills aligned with modern ICT environments.
 
 ---
-nslookup google.com
-route -n
-netstat -tulnp
+
