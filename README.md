@@ -57,7 +57,7 @@ The objective is to build real-world technical skills relevant to:
 ### 🌐 Interface Configuration
 Network interface analysis using Linux networking tools.
 
-![Interface Configuration]((https://github.com/BARONWILLIAMS1/networking-notes/blob/main/Ifconfig_lab.png)
+![Interface Configuration](https://github.com/BARONWILLIAMS1/networking-notes/blob/main/Ifconfig_lab.png)
 
 ---
 
